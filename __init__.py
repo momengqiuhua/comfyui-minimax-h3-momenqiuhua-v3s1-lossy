@@ -1,0 +1,3 @@
+﻿"""末梦秋花 v3s1 顺风飘 —— 有损跳步加速"""
+from .nodes import NODE_CLASS_MAPPINGS, NODE_DISPLAY_NAME_MAPPINGS
+__all__ = ["NODE_CLASS_MAPPINGS", "NODE_DISPLAY_NAME_MAPPINGS"]
